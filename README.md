@@ -498,5 +498,3 @@ If any of these warnings are triggered, the score is **capped at 450** and proba
 
 ## License 
 Emmanuel Azi-Love
-
-MIT
