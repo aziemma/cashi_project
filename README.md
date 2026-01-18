@@ -38,6 +38,7 @@ The fastest way to get up and running:
 
 ```bash
 # Clone the repository
+docker pull python:3.11-slim
 git clone https://github.com/aziemma/cashi_project
 cd cashi_project
 
