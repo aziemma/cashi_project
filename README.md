@@ -281,14 +281,9 @@ The `setup.sh` script provides a convenient way to manage the application:
 ./setup.sh
 
 # Other commands
-./setup.sh build     # Build Docker images only
-./setup.sh start     # Start services (assumes already built)
 ./setup.sh stop      # Stop all services
-./setup.sh restart   # Restart all services
 ./setup.sh logs      # View logs from all services
-./setup.sh clean     # Stop and remove containers, images
-./setup.sh local     # Run locally without Docker (development)
-./setup.sh help      # Show help
+./setup.sh clean     # Stop and remove containers, images, and volumes
 ```
 
 ### Manual Docker Commands
