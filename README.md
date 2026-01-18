@@ -184,7 +184,7 @@ cashi_project/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aziemma/cashi_project
    cd cashi_project
    ```
 
