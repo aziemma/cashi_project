@@ -181,6 +181,20 @@ cashi_project/
 - Python 3.11+
 - [uv](https://github.com/astral-sh/uv) (recommended) or pip
 
+### Install uv
+
+**macOS/Linux:**
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+**Windows (PowerShell):**
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+After installation, restart your terminal.
+
 ### Setup
 
 1. **Clone the repository**
