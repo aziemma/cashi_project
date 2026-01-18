@@ -1,0 +1,54 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv
+venv
+ENV
+env
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# Testing
+.pytest_cache
+.coverage
+htmlcov
+.tox
+
+# Jupyter
+.ipynb_checkpoints
+notebooks/
+
+# Logs (will be mounted as volume)
+logs/
+
+# macOS
+.DS_Store
+
+# Build
+*.egg-info
+dist
+build
+
+# Documentation
+docs/
+
+# Tests (not needed in production image)
+tests/
+
+# Other
+*.md
+!README.md
+Makefile
+setup.sh
+docker-compose.yml
