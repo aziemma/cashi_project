@@ -38,7 +38,7 @@ The fastest way to get up and running:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/aziemma/cashi_project
 cd cashi_project
 
 # Build and start everything
