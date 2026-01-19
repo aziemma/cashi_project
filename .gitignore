@@ -9,3 +9,7 @@ logs/
 
 # Virtual environments
 .venv
+
+# Documentation and test files (local only)
+docs/STAKEHOLDER_DOCUMENTATION.txt
+tests/test.txt
